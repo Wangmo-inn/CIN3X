@@ -5,9 +5,6 @@ import {Routes,Route} from "react-router-dom"
 import {MovieProvider} from "./contexts/MovieContext"
 import NavBar from "./componenets/NavBar"
 
-//component starts with cap letter
-//react- uses jsx - mix od js and html
-//<> //this is fragment
 function App() {
   
   return (
