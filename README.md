@@ -29,4 +29,28 @@
 ```bash
 git clone https://github.com/Wangmo-inn/CIN3X.git
 cd CIN3X
+npm install
+npm run dev
+CIN3X/
+├── components/       # Reusable UI components
+├── pages/            # Home, Favorites, etc.
+├── contexts/         # React Context for Favorites
+├── services/         # API handlers (TMDB)
+├── css/              # Custom styles
+├── App.jsx
+├── main.jsx
+└── ...
+npm run build
+npm run preview
+
+```
+MIT License © 2025 Rigzin Wangmo
+
+---
+
+Let me know if you want to:
+- Add screenshots
+- Include a `.env` example for TMDB API
+- Convert this into a `README.md` file right now
+
 
