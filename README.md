@@ -29,8 +29,15 @@
 ```bash
 git clone https://github.com/Wangmo-inn/CIN3X.git
 cd CIN3X
-npm install
-npm run dev
+```
+### 2. Install dependencies
+```npm install```
+### 3. Start development server
+```npm run dev```
+
+
+###Folder Structure
+```
 CIN3X/
 ├── components/       # Reusable UI components
 ├── pages/            # Home, Favorites, etc.
@@ -40,6 +47,9 @@ CIN3X/
 ├── App.jsx
 ├── main.jsx
 └── ...
+```
+### Build for Production
+```
 npm run build
 npm run preview
 
