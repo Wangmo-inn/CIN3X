@@ -36,7 +36,7 @@ cd CIN3X
 ```npm run dev```
 
 
-###Folder Structure
+### Folder Structure
 ```
 CIN3X/
 ├── components/       # Reusable UI components
