@@ -58,9 +58,5 @@ MIT License © 2025 Rigzin Wangmo
 
 ---
 
-Let me know if you want to:
-- Add screenshots
-- Include a `.env` example for TMDB API
-- Convert this into a `README.md` file right now
 
 
