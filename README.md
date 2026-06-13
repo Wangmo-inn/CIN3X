@@ -2,7 +2,7 @@
 
 **CIN3X** is a sleek and modern movie web app built with **React** and **Vite**, designed to explore popular and trending films. It includes search functionality, favorites management, and a clean UI — all powered by TMDB API.
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack 
 
 - ⚛️ React (with Hooks)
 - ⚡ Vite (blazing fast dev environment)
